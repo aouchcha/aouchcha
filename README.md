@@ -48,30 +48,6 @@
 
 ---
 
-## 📚 Projects
-
-### **01 Blog**
-A full blog platform where users can share posts, react, follow others, and receive real-time notifications.  
-**Tech:** Golang, Angular, Spring Boot, PostgreSQL, JWT, SSE, WebSocket
-
----
-
-### **VolunteerHub**
-A platform connecting volunteers with associations.  
-CRUD operations (GET, POST, PUT, DELETE) implemented using **Golang + Vanilla JS**.
-
----
-
-### **Shell Simulator**
-A Unix-like shell built with Rust supporting commands like `mkdir`, `rm`, `cp`, `mv`, `rm -r`.  
-Developed as a group project.
-
----
-
-### **Bomber-Man DOM**
-A multiplayer web game with real-time chat and gameplay synchronization using **Node.js** and a **custom frontend framework**.
-
----
 
 ## 🎓 Education
 **Bachelor of Science in Physics**  
@@ -83,7 +59,7 @@ University Mohammed Premier — Oujda
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aouchcha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aouchcha)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.emage-me.com/me/achraf-ouchchate-1-FGXCTfV8sB2xfmv2kJTK)
+[![emage-me](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.emage-me.com/me/achraf-ouchchate-1-FGXCTfV8sB2xfmv2kJTK)
 
 ---
 
@@ -99,6 +75,3 @@ University Mohammed Premier — Oujda
 </div>
 
 ---
-
-## 🔥 Profile Views
-[![](https://visitcount.itsvg.in/api?id=aouchcha&icon=0&color=0)](https://visitcount.itsvg.in)
