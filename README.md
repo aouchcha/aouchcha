@@ -59,7 +59,7 @@ University Mohammed Premier — Oujda
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/aouchcha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aouchcha)
-[![emage-me](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.emage-me.com/me/achraf-ouchchate-1-FGXCTfV8sB2xfmv2kJTK)
+[![emage-me](https://img.shields.io/badge/emage-me-1F6FEB?style=for-the-badge&logo=About.me&logoColor=white)](https://cv.emage-me.com/me/achraf-ouchchate-1-FGXCTfV8sB2xfmv2kJTK)
 
 ---
 
