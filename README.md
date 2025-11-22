@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achraf Ouchchate</h1>
 <h3 align="center">Full Stack Developer | Golang, Java, Rust, Angular, PostgreSQL</h3>
 
-🔹 Full Stack Developer with 18+ months of hands-on experience at **Zone01Oujda**  
+🔹 Full Stack Developer with +18 months of hands-on experience at **Zone01Oujda**  
 🔹 Passionate about building scalable, high-performance applications  
 🔹 Strong foundation in backend systems, clean architecture, and modern web technologies  
 
@@ -45,31 +45,6 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![SSE](https://img.shields.io/badge/SSE-FF6F00?style=for-the-badge)
-
----
-
-## 📚 Projects
-
-### **01 Blog**
-A full blog platform where users can share posts, react, follow others, and receive real-time notifications.  
-**Tech:** Golang, Angular, Spring Boot, PostgreSQL, JWT, SSE, WebSocket
-
----
-
-### **VolunteerHub**
-A platform connecting volunteers with associations.  
-CRUD operations (GET, POST, PUT, DELETE) implemented using **Golang + Vanilla JS**.
-
----
-
-### **Shell Simulator**
-A Unix-like shell built with Rust supporting commands like `mkdir`, `rm`, `cp`, `mv`, `rm -r`.  
-Developed as a group project.
-
----
-
-### **Bomber-Man DOM**
-A multiplayer web game with real-time chat and gameplay synchronization using **Node.js** and a **custom frontend framework**.
 
 ---
 
